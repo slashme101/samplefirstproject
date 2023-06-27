@@ -1,1 +1,1 @@
-now now
+echo "everything now now"
